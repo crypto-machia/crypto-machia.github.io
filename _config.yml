@@ -1,9 +1,9 @@
 # Site settings
-title: Your Name
-email: your-email@example.com
+title: Whit Richardson
+email: whitrichardson@proton.me
 description: A space for thoughts, ideas, and reflections
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
+url: "https://crypto-machia.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
