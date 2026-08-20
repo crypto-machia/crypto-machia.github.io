@@ -1,9 +1,8 @@
 # Site settings
 title: Whit Richardson
 email: whitrichardson@proton.me
-description: A space for thoughts, ideas, and reflections
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://crypto-machia.github.io" # the base hostname & protocol for your site
+description: Rediscovering the lost art of blogging. A space for thoughts, ideas, and reflections.
+url: "https://whit.fyi" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -15,7 +14,11 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
+  
+# Only these are processed by Jekyll; everything else is copied as-is
+include:
+  - CNAME
+  
 # Exclude from processing
 exclude:
   - Gemfile
