@@ -136,6 +136,35 @@ hr {
   margin-bottom: 2.5rem;
 }
 
+.tag-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.tag-btn {
+  font: inherit;
+  font-size: 0.85rem;
+  background: none;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem;
+  color: #555;
+  cursor: pointer;
+}
+
+.tag-btn:hover {
+  border-color: #aaa;
+  color: #1a1a1a;
+}
+
+.tag-btn.active {
+  background: #1a1a1a;
+  border-color: #1a1a1a;
+  color: #fdfdfb;
+}
+
 .post-list {
   list-style: none;
   padding: 0;
@@ -180,6 +209,14 @@ hr {
   color: #888;
   font-size: 0.9rem;
   margin-top: 0.35rem;
+}
+
+.post-tags {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+  font-size: 0.85rem;
+  color: #888;
+  text-transform: lowercase;
 }
 
 .post-nav {
