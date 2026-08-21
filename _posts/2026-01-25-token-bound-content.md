@@ -5,7 +5,7 @@ date: 2026-01-25 10:00:00 -0500
 tags: [essay, writing, history, current affairs]
 ---
 
-*This is a post I wrote in 2023 and originally published on Darkblock's blog. Darkblock was a startup working on an encryption protocol that allowed any artist or creator to encrypt multimedia files and immutably attach those encrypted files (stored on Arweave) to an NFT. The only way to decrypt a Darkblock file - whether it was an ebook, 3D avatar, video, mp3, or high-res version of your photograph - was to prove ownership of the NFT. Sadly, while investors liked the tech, they all thought we were too early to be able to gain enough traction in the current market.*
+*This is a post I originally wrote in 2023 when I was working at Darkblock, a startup that'd built and shipped an encryption protocol that allowed any artist or creator to encrypt multimedia files and immutably attach those encrypted files (stored on Arweave) to an NFT. The only way to decrypt a Darkblock file - whether it was an ebook, 3D avatar, video, mp3, or high-res version of your photograph - was to prove ownership of the NFT. Sadly, while investors liked the tech, they all thought we were too early to be able to gain enough traction in the current market.*
 
 If you're "gating" access to something, that implies there's a gate—and where there's a gate, there's a gatekeeper trying to protect whatever's beyond the gate.
 That is a centralized way of handling digital assets, and comes with all the well-known downsides of centralization—users are at the mercy of the platform, creators risk being de-platformed or losing access if the website disappears, gated content is susceptible to censorship, etc.
