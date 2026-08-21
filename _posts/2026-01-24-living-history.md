@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We're Living Through History'"
+title: "We're Living Through History"
 date: 2026-01-24 10:00:00 -0500
 tags: [essay, writing, history, current affairs]
 ---
