@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Token Gating Isn't Really Web3 - Do This Instead"
-date: 2026-01-24 10:00:00 -0500
+date: 2026-01-25 10:00:00 -0500
 tags: [essay, writing, history, current affairs]
 ---
 
