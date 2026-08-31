@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="note">
+  <p class="note-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+    {% if page.tags.size > 0 %}&nbsp;·&nbsp;{{ page.tags | join: ", " }}{% endif %}
+  </p>
+
+  {% if page.title %}
+  <p class="note-title">{{ page.title }}</p>
+  {% endif %}
+
+  <div class="note-body">
+    {{ content }}
+  </div>
+</article>
+
+<p class="post-nav">
+  <a href="{{ '/' | relative_url }}">&larr; back to all posts</a>
+</p>

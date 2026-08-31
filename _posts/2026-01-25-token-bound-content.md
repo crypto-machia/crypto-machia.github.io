@@ -2,7 +2,7 @@
 layout: post
 title: "Token Gating Isn't Really Web3 - Do This Instead"
 date: 2026-01-25 10:00:00 -0500
-tags: [essay, writing, history, current affairs]
+tags: [publishing, web3, creator economy, blockchain]
 ---
 
 *This is a post I originally wrote in 2023 when I was working at Darkblock, a startup that'd built and shipped an encryption protocol that allowed any artist or creator to encrypt multimedia files and immutably attach those encrypted files (stored on Arweave) to an NFT. The only way to decrypt a Darkblock file - whether it was an ebook, 3D avatar, video, mp3, or high-res version of your photograph - was to prove ownership of the NFT. Sadly, while investors liked the tech, they all thought we were too early to be able to gain enough traction in the current market.*
@@ -21,7 +21,7 @@ In this scenario, the NFT is nothing but an access pass—no different than a ti
 
 If this model sounds familiar, it's because it is!
 
-Token gating recreates Kindle's business model of locking ebooks in its walled garden and gating access, though with a username and password rather than an NFT. In fact, this is the same model all web2 content platforms use: Audible, Apple Movies, Spotify, etc. In our existing web2 world, ownership in the digital content we "buy" is illusory. You don't own that movie you "bought" on Apple Movies, or the audiobook you "bought" on Audible, or the album you downloaded onto your phone from Spotify. Rather, you're paying a licensing fee to access and consume the content—one that could be revoked at any time if the platform decides to remove the content.
+Token gating recreates Kindle's business model of locking ebooks in its walled garden and gating access, though with a username and password rather than an NFT. In fact, this is the same model all web2 content platforms use: Audible, Apple Movies, Spotify, etc. In our current online existence, ownership of digital content we "buy" is illusory. You don't own that movie you just "bought" for $13.99 on Apple Movies, or the audiobook you "bought" on Audible for $25.99, or the album you downloaded onto your phone from Spotify. Rather, you're paying a licensing fee to access and consume that piece of content on that particular platform, access that could be revoked at any time if Apple, Amazon or Spotify decides to remove the content.
 
 Whoever controls the walled garden—whether it's gated by a username or NFT—controls the ebook, including the ability to revise or censor the file at any time, or delete it outright. Even if there's no ill intent, what if the file is accidentally moved to a different Dropbox folder or the author forgets to pay their hosting fees? A future buyer of that NFT Book would quickly discover that they don't really own anything but the underlying token.
 
