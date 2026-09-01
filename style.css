@@ -219,6 +219,28 @@ hr {
   text-transform: lowercase;
 }
 
+/* ---- Note layout ---- */
+.note {
+  border-left: 2px solid #ddd;
+  padding-left: 1.25rem;
+}
+
+.note-meta {
+  font-size: 0.85rem;
+  color: #888;
+  margin-bottom: 0.5rem;
+  text-transform: lowercase;
+}
+
+.note-title {
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.note-body p:last-child {
+  margin-bottom: 0;
+}
+
 .post-nav {
   margin-top: 3rem;
   font-size: 0.95rem;
